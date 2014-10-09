@@ -2,7 +2,8 @@ StartWithPython
 ===============
 
 Put examples into this path
-for example,
+for example
+
     example/
         django/
             Django1.6-Tutorial/*
