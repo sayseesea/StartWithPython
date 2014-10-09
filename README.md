@@ -1,0 +1,4 @@
+StartWithPython
+===============
+
+Python is funny!
